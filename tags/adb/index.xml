@@ -6,11 +6,11 @@
     <description>Recent content in adb on Ali Rezaiyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://rezaiyan.github.io/tags/adb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rezaiyan.github.io/tags/adb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Extract Sandbox data of an Android App?</title>
       <link>https://rezaiyan.github.io/posts/how-to-extract-sandbox-data-of-an-android-app/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://rezaiyan.github.io/posts/how-to-extract-sandbox-data-of-an-android-app/</guid>
       <description>A few days ago I faced an issue that was reported to me by one of the beta testers. It was a crash, in the production version, After a lot of struggling with code, I couldn’t reproduce the crash. I understood the problem might be with cached data, I needed to extract the cached data of the installed application (sandbox).
